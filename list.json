@@ -8,11 +8,11 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "chainId": 128,
+      "address": "0x1d569d21d75edba49db984d3015cc548f1d80558",
       "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
+      "symbol": "LSSB",
+      "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
   ],
